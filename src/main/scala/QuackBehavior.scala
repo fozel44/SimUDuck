@@ -1,0 +1,3 @@
+trait QuackBehavior {
+  def quack();
+}

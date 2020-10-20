@@ -1,0 +1,3 @@
+trait FlyBehavior {
+  def fly();
+}
